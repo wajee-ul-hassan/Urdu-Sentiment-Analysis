@@ -1,0 +1,6 @@
+LughaatNLP
+numpy
+pandas
+scikit-learn
+gensim
+LughaatNLP
